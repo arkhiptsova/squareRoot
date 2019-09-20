@@ -3,11 +3,9 @@ package FeetNumber;
 import java.text.DecimalFormat;
 
 /*
-Mila Arkhiptcova
+Mila 
 Java application that prints even numbers and their SquareRoot from 0 up to 20 
 using the sqrt method in the Math class. Using a for loop to produce the output results. 
-09/19/2019
-Bellevue University
 SquareRoot.java
 */
 public class SquareRoot {
